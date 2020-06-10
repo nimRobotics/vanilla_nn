@@ -1,6 +1,6 @@
 # vanilla_nn
 
-This is an implementation of a two layered feed-forward Neural Network. For more details and mathematical formulations please consider this [blog](https://nimrobotics.github.io/jekyll/update/2020/04/13/nn.html).
+This is an implementation of a two layered feed-forward Neural Network. For more details and mathematical formulations please consider this [blog](https://nimrobotics.github.io/2020/04/13/nn.html).
 
 ## Usage
 
